@@ -1,4 +1,4 @@
-# Auditing guide
+# Auditing reference
 
 **What exactly is a Smart Contract audit?**
 > A Smart Contract audit is the process investigating carefully a piece of code, in this case a Solidity contract to find bugs, vulnerabilities and risks before the code is deployed and used in the main Ethereum’s network where it won’t be modifiable. It’s just for discussion purposes.

@@ -67,7 +67,7 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - If the return value is not used, remove the return parameter.
 - Use `view` if the function doesn't change state.
 - Use `pure` if the function doesn't even read state.
-- Consider difference between `external` and `public`
+- If you expect that the function will only ever be called externally, use `external`
 
 ### modifier
 - If the modifier is used only once, it is confusing rather than useful

@@ -79,7 +79,6 @@ Write simple and modular code and order your function code: **conditions**, **ac
 
 ### naming
 - Naming with clear meaning
-- It is recommended that the name of the `contract` and the name of the `function` be different.
 - It is recommended that the name of the `event` and the name of the `function` be different.
 
 ### etc

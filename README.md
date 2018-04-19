@@ -76,6 +76,8 @@ Write simple and modular code and order your function code: **conditions**, **ac
 ### control statements
 - for *loop*
   - Consider reviewing all for-loops and ensure that array maximum lengths are checked on iteration.
+  - Consider the situation where loop exits out of gas.
+  - Make sure that increment variable does not overflow.
 
 ### naming
 - Naming with clear meaning

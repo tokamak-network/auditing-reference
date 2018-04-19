@@ -65,7 +65,8 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - Multiple functions in the same logic make one function.
 - Delete unused function
 - If the return value is not used, remove the return parameter.
-- Consider difference between `pure` and `view`
+- Use `view` if the function doesn't change state.
+- Use `pure` if the function doesn't even read state.
 - Consider difference between `external` and `public`
 
 ### modifier

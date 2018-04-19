@@ -102,4 +102,4 @@ Write simple and modular code and order your function code: **conditions**, **ac
 ## Reference
 - [Zeppelin security blog](https://blog.zeppelin.solutions/security/home)
 - [Onward with Ethereum Smart Contract Security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
-- [Recommendations for Smart Contract Security in Solidity]( https://consensys.github.io/smart-contract-best-practices/recommendations/#remember-that-ether-can-be-forcibly-sent-to-an-account)
+- [Recommendations for Smart Contract Security in Solidity](https://consensys.github.io/smart-contract-best-practices/recommendations/)

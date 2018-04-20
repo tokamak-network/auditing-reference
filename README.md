@@ -88,12 +88,17 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - Consider using scientific notation to declare numeric constants to avoid typos
 
 ## for ERC20
-  - ERC20 compliance
-  - Emit the event for initial supply creation, minted tokens
-  - [Possible attack vector on the approve/transferFrom functionality of ERC20 tokens](https://docs.google.com/document/d/1YLPtQxZu1UAvO9cZ1O2RPXBbT0mooh4DYKjA_jp-RLM/edit)
-  - It should be the same as the white paper.
+- ERC20 compliance
+- Emit the event for initial supply creation, minted tokens
+- [Possible attack vector on the approve/transferFrom functionality of ERC20 tokens](https://docs.google.com/document/d/1YLPtQxZu1UAvO9cZ1O2RPXBbT0mooh4DYKjA_jp-RLM/edit)
+- It should be the same as the white paper.
 
 ## Attack scenario
+- Reentrancy attack
+- Over and under flows
+- Replay attack
+- Reordering attack
+- [Short address attack](https://vessenes.com/the-erc20-short-address-attack-explained/)
 
 ## Write tests
 

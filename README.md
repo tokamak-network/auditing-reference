@@ -92,6 +92,7 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - Emit the event for initial supply creation, minted tokens
 - [Possible attack vector on the approve/transferFrom functionality of ERC20 tokens](https://docs.google.com/document/d/1YLPtQxZu1UAvO9cZ1O2RPXBbT0mooh4DYKjA_jp-RLM/edit)
 - It should be the same as the white paper.
+- [Consider implementing claimTokens function](https://www.youtube.com/watch?v=RL_e8fot29A)
 
 ## Attack scenario
 - Reentrancy attack

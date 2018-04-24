@@ -95,7 +95,7 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - [Consider implementing claimTokens function](https://www.youtube.com/watch?v=RL_e8fot29A)
 
 ## for crowdsale
-- Implement claimTokens function to prevent ERC20 tokens from being sent inadvertently.
+- Implement [claimTokens](https://github.com/OpenZeppelin/zeppelin-solidity/blob/master/contracts/ownership/CanReclaimToken.sol) function to prevent ERC20 tokens from being sent inadvertently.
 
 ## Attack scenario
 - Reentrancy attack

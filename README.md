@@ -15,7 +15,7 @@
 ## Solidity Code
 Write simple and modular code and order your function code: **conditions**, **actions**, **interactions**
 - **common**:
-  - Consider using SafeMath library
+  - [Consider using SafeMath library](https://ethereumdev.io/safemath-protect-overflows/)
   - [Enforce invariants with assert()](https://consensys.github.io/smart-contract-best-practices/recommendations/#enforce-invariants-with-assert)
   - [Use assert() and require() properly](https://consensys.github.io/smart-contract-best-practices/recommendations/#use-assert-and-require-properly)
   - [Beware rounding with integer division](https://consensys.github.io/smart-contract-best-practices/recommendations/#beware-rounding-with-integer-division)

@@ -105,6 +105,31 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - [Short address attack](https://vessenes.com/the-erc20-short-address-attack-explained/)
 
 ## Accident
+| Events   |      Date      |  Loss |
+|----------|:-------------:|------:|
+| Roulette randomness private seed  |	August 11, 2015| No loss |
+| King of the Ether unchecked return value | February 6, 2016 |	
+| EthAddress.org off-chain | February 26, 2016 | 120 ETH |
+| FirePonzi mixup underscore variables | April 11, 2016 | 0.1 ETH
+| Rubixi mixup constructor | April 11, 2016	|
+| TheRun randomness timestamp | April 12, 2016 |
+| Rock paper scissors private randomness | April 21, 2016	|
+| Governmental dos self-dosApril 26, 2016 | April 26, 2016 |
+| Geth off-chain | May 16, 2016 | 7,218 ETH |
+| Maker DAO reentrancy | June 17, 2016 | No loss |
+| DAO reentrancy | June 17, 2016 | 615,391 ETH |
+| HackerGold mixup | January 4, 2017 | No loss |
+| Poloniex - Short Addresses off-chain short address | April 6, 2017 | No loss
+| Bithumb off-chain | June 29, 2017	|
+| Classic Ether Wallet off-chain | June 29, 2017 |	
+| Augur Rep Token serpent	| July 13, 2017	| No loss |
+| CoinDash off-chain | July 17, 2017 |
+| Parity multi-sig bug 1 re-init delegatecall bad library | July 19, 2017 | 150,000 ETH
+| SmartBillions randomness blockhash | October 5, 2017 | 400 ETH
+| Bancor front-running | October 10, 2017 | No loss
+| Parity multi-sig bug 2 delegatecall | November 6, 2017 | 513,774 ETH and tokens stuck
+| Batch and proxy Overflow integer overflow | April 22, 2018 | Large loss in tokens
+| MyEtherWallet Domain-Hijacking off-chain bgp | April 24, 2018	| 525 ETH
 
 ## Write tests
 

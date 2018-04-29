@@ -105,8 +105,8 @@ Write simple and modular code and order your function code: **conditions**, **ac
 - [Short address attack](https://vessenes.com/the-erc20-short-address-attack-explained/)
 
 ## Accident
-| Events   |      Date      |  Loss |
-|----------|:-------------:|------:|
+| Events   |      Date      | Loss |
+|----------|:-------------:|:------:|
 | Roulette randomness private seed  |	August 11, 2015| No loss |
 | King of the Ether unchecked return value | February 6, 2016 |	
 | EthAddress.org off-chain | February 26, 2016 | 120 ETH |
